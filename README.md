@@ -45,35 +45,7 @@ Distribution plots of key variables
 
 Feature importance charts (if applicable)
 
-🚀 How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/house-price-prediction-ml.git
-cd house-price-prediction-ml
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook "Predictive Modeling with ML.ipynb"
-📂 Repository Structure
-vbnet
-Copy
-Edit
-house-price-prediction-ml/
-├── Predictive Modeling with ML.ipynb
-├── house_prices.csv
-├── README.md
-└── requirements.txt (optional)
 📈 Example Models (Suggested)
 Linear Regression
 
